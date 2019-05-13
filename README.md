@@ -9,4 +9,4 @@ The system reads data from Ecxel file, and writes into it the score of the curre
 
 Attached an Excel file for example and the system jar file.
 
-This version is suitable for a teens competition held in May 2019 at CROSSFIT REL*
+This version is suitable for a teens competition held in May 2019 at CROSSFIT REL
